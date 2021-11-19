@@ -32,4 +32,4 @@ D:\ADS\Udemy\C# COMPLETO OO + PROJETOS\SalesWebMvc\SalesWebMvc\obj\Debug\netcore
 D:\ADS\Udemy\C# COMPLETO OO + PROJETOS\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 D:\ADS\Udemy\C# COMPLETO OO + PROJETOS\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 D:\ADS\Udemy\C# COMPLETO OO + PROJETOS\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
-D:\ADS\Udemy\C# COMPLETO OO + PROJETOS\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
+D:\ADS\Udemy\C# COMPLETO OO + PROJETOS\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csprojAssemblyReference.cache
